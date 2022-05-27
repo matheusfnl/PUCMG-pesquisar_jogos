@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap%27'); 
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@900&display=swap');
+
+.container-fluid {
+  font-family: 'Anton';
+  background-color: #151C35;
+}
+
+.nav-item{
+  font-size: 20px;
+  padding-left: 40px;
+}
+
+.logo-image {
+  width: 80px;
+  top: 0px;
+}
+
+.bg {
+  background-color: #151C35;
+}
+
+.titulo {
+  font-family: 'Anton';
+  font-size: 50px;
+}
+
+.game_page_out {
+  margin: 70px 80px;
+  padding: 50px 40px;
+  background-color: #151C35;
+  color: white;
+}
+
+.game_page {
+  font-family: 'Lato';
+  background-color: #070818;
+  color: white;
+}
+
+.estrela{
+  font-size: 60px;
+}
+
+.desc {
+  text-align: justify;
+  font-size: 20px;
+  margin: 15px;
+}
+
+.persona {
+  width: 500px;
+}
+
+.titulo-requisitos {
+  font-family: 'Anton';
+}
+
+.requisitos {
+  background-color: #3B5C6E;
+  padding: 10px;
+}
+
+.coment{
+  font-family: 'anton';
+}
+
+.comentarios {
+  font-family: 'anton';
+  background-color: #0c0d22;
+  color: white;
+  padding: 15px;
+}
+
+.coment_desc {
+  margin: 0;
+  font-family: 'lato';
+}
+
+.escrever_comentario{
+  color: rgb(116, 146, 180);
+  font-family: 'anton'; 
+}
+
+.escrever_coment {
+  width: 100%;
+  background-color: #0c0d22;
+  border: 1px solid black;
+  color: white;
+}
+
+.enviar_coment {
+  margin-top: 10px;
+}
+
+.letra{
+  color: orange;
+}

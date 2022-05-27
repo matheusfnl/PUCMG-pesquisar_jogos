@@ -1,0 +1,24 @@
+.cardPreview {
+  max-width: 195px;
+  padding: 10px;
+  background-color: #1e284b;
+  border: 1px solid #324070;
+}
+
+.imgPreview {
+  width: 172px;
+}
+
+.nomePreview {
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.zindex1000 {
+  z-index: 1000;
+}

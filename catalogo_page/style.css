@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap%27'); 
+
+.container-fluid {
+  font-family: 'Anton';
+  background-color: #151C35;
+}
+
+.nav-item {
+  font-size: 20px;
+  padding-left: 40px;
+}
+
+.logo-image {
+  width: 80px;
+  top: 0px;
+}
+
+.bg {
+  background-color: #151C35;
+}
+
+#games_section {
+  background-color: #151C35;
+  margin: 10px;
+}
+
+.catalogo {
+  font-size: 55px;
+  color: white;
+  font-family: 'anton';
+}
+
+.letra {
+  color: orange;
+}
+
+.estrela {
+  font-size: 30px;
+}
+
+.categorias {
+  text-decoration: none;
+  display: block;
+  width: 93%;
+  height: 40px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  color: white;
+  border: 1px solid rgb(61, 61, 61);
+  background-color: #273257;
+  font-family: 'Anton';
+}
+
+.persona {
+  width: 500px;
+}
+
+#card {
+  background-color: #273257;
+  margin: 20px;
+}
+
+.link{
+  text-decoration: none;
+}
+
+.descricao {
+  text-align: justify;
+}
+
+p{
+  text-align: center;
+  color: white;
+}
+
+.card_content {
+  margin: 10px;
+  color: white;
+}
